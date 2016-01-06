@@ -1,3 +1,5 @@
+//https://www.hackerrank.com/contests/projecteuler/challenges/euler113
+
 class NotBouncy {
 
 	    //function to sort numbers into bouncy and not_bouncy, then count not_bouncy
